@@ -1,5 +1,7 @@
 # js-bats
-🦇🎃 Include bats in your web GUI with a small JS file and a single line of code.
+🦇🎃 Include bats in your web GUI with a small JS file and a single line of code.  
+
+Based on the work of [Eric Grange at DelphiTools](https://www.delphitools.info/2013/10/30/pimp-your-website-with-an-halloween-bat/).
 
 First, include the script in your header or footer.
 
