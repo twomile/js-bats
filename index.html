@@ -1,0 +1,17 @@
+<html>
+<body>
+	<h1>Bats!</h1>
+	<p><em>Based on the work of <a href="https://www.delphitools.info/2013/10/30/pimp-your-website-with-an-halloween-bat/" target="_new">Eric Grange at DelphiTools</a>.</em></p>
+	<p>
+		<a href="#" onClick="makeBats();"><button>click here for some bats</button></a>
+	</p>
+	<script src="bats.js"></script>
+	<script>
+		var bats = new BatManager();
+		function makeBats() {
+			console.log('make bats');
+			bats.makeBats(15);
+		}
+	</script>
+</body>
+</html>
