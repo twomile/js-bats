@@ -13,5 +13,5 @@ Then, call makeBats() and give it the number of bats you want to appear. e.g.,
 
 See the index.html file in this repo for an example.
 
-[![See this on YouTube](http://img.youtube.com/vi/mYLW7iF1O1Y/0.jpg)](http://www.youtube.com/watch?v=mYLW7iF1O1Y "See this on YouTube")
+[![See a video on PeerTube](img/video-still.jpg)](https://communitymedia.video/w/jXxnUBLguxSo9n26RGeFzN "See a video on PeerTube")
 
