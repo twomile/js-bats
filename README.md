@@ -16,7 +16,7 @@ Or, you can link to our hosted version.
 
 Then, call makeBats() somewhere in your JS and give it the number of bats you want to appear. e.g.,
 
-`new BatManager().makeBats(15)`
+`new BatManager().makeBats(15);`
 
 See the index.html file in this repo for an example.
 
