@@ -12,7 +12,7 @@ First, include the script in your HTML header or footer.  You can use the JS fil
 
 Or, you can link to our hosted version.
 
-`<script src="http://static.twomile.com/bats.js"></script>`
+`<script src="https://static.twomile.com/bats.js"></script>`
 
 Then, call makeBats() somewhere in your JS and give it the number of bats you want to appear. e.g.,
 
