@@ -6,7 +6,7 @@ Based on the work of [Eric Grange at DelphiTools](https://www.delphitools.info/2
 
 ## Usage
 
-First, include the script in your HTML header or footer.  You can use the JS file in this repo - e.g.,
+First, include the script in your HTML header or footer.  You can use the JS file in this repo. e.g.,
 
 `<script src="./bats.js"></script>`
 
